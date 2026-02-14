@@ -1,0 +1,1001 @@
+Transaction_ID,Transaction_Amount,Transaction_Time,Transaction_Type,Account_Balance,Merchant_Category,Transaction_Frequency,Location,Fraud_Status
+T0001,21422,04:25,UPI,14494,Electronics,2,Indore,Not Fraud
+T0002,4001,16:13,UPI,16265,Food,2,Delhi,Not Fraud
+T0003,36313,13:03,NetBanking,21226,Jewelry,19,Indore,Fraud
+T0004,4254,18:37,UPI,11499,Travel,13,Bangalore,Not Fraud
+T0005,19179,13:09,NetBanking,20439,Transport,18,Bangalore,Not Fraud
+T0006,6953,18:36,NetBanking,53810,Groceries,7,Indore,Fraud
+T0007,4106,19:13,Card,94181,Shopping,16,Indore,Not Fraud
+T0008,29899,11:19,UPI,109120,Groceries,8,Indore,Fraud
+T0009,19877,16:31,NetBanking,100609,Groceries,11,Delhi,Not Fraud
+T0010,33750,13:10,Card,24920,Groceries,11,Delhi,Fraud
+T0011,50306,17:36,NetBanking,49580,Shopping,11,Indore,Fraud
+T0012,52425,14:04,NetBanking,40381,Groceries,3,Mumbai,Not Fraud
+T0013,48117,22:19,Card,94291,Jewelry,19,Kolkata,Fraud
+T0014,58333,21:22,NetBanking,65515,Groceries,1,Jaipur,Not Fraud
+T0015,4063,06:49,Card,21952,Shopping,10,Jaipur,Not Fraud
+T0016,5480,05:28,UPI,77016,Transport,13,Kolkata,Fraud
+T0017,56822,17:17,Card,52024,Food,14,Bangalore,Fraud
+T0018,5638,05:09,Card,91313,Transport,8,Indore,Not Fraud
+T0019,12150,08:18,Card,24094,Travel,1,Indore,Not Fraud
+T0020,21080,04:44,NetBanking,85949,Groceries,17,Jaipur,Fraud
+T0021,59151,21:51,Card,56429,Groceries,18,Jaipur,Fraud
+T0022,41768,12:03,Card,13827,Food,7,Delhi,Not Fraud
+T0023,22485,19:03,NetBanking,5030,Groceries,4,Hyderabad,Not Fraud
+T0024,40421,00:04,NetBanking,85487,Electronics,7,Hyderabad,Fraud
+T0025,39670,11:30,Card,20119,Shopping,4,Jaipur,Not Fraud
+T0026,20637,02:09,Card,103261,Shopping,4,Bangalore,Not Fraud
+T0027,34038,00:13,NetBanking,52415,Groceries,17,Surat,Not Fraud
+T0028,19735,20:55,NetBanking,96251,Electronics,3,Bangalore,Not Fraud
+T0029,23510,07:34,NetBanking,107112,Food,18,Indore,Not Fraud
+T0030,53383,06:51,UPI,112260,Food,8,Surat,Not Fraud
+T0031,32494,11:46,Card,8661,Electronics,1,Pune,Not Fraud
+T0032,45585,19:22,Card,110980,Electronics,15,Delhi,Fraud
+T0033,14648,03:14,Card,30782,Travel,16,Indore,Fraud
+T0034,55278,00:30,NetBanking,109810,Groceries,12,Kolkata,Fraud
+T0035,51469,22:48,Card,67656,Transport,7,Hyderabad,Not Fraud
+T0036,5885,23:25,UPI,57610,Jewelry,15,Bangalore,Fraud
+T0037,11341,04:01,NetBanking,82438,Food,5,Indore,Not Fraud
+T0038,54366,19:30,UPI,25435,Groceries,12,Mumbai,Fraud
+T0039,52586,23:41,UPI,74020,Shopping,4,Pune,Fraud
+T0040,54342,06:01,UPI,32889,Transport,9,Indore,Not Fraud
+T0041,21564,08:34,NetBanking,114339,Electronics,14,Jaipur,Fraud
+T0042,43615,18:52,NetBanking,60132,Food,17,Surat,Fraud
+T0043,10150,16:32,UPI,119400,Travel,1,Mumbai,Not Fraud
+T0044,51058,04:11,UPI,67061,Travel,5,Mumbai,Fraud
+T0045,21563,21:33,UPI,77802,Travel,17,Mumbai,Not Fraud
+T0046,16485,06:17,Card,106221,Travel,2,Mumbai,Fraud
+T0047,50006,02:28,NetBanking,85285,Travel,11,Pune,Fraud
+T0048,45598,08:28,NetBanking,74898,Food,17,Surat,Fraud
+T0049,57644,08:59,UPI,31553,Shopping,18,Delhi,Fraud
+T0050,25913,14:20,UPI,92969,Food,3,Chennai,Not Fraud
+T0051,51576,03:57,Card,98863,Food,5,Chennai,Fraud
+T0052,58057,04:29,Card,102869,Shopping,8,Bangalore,Fraud
+T0053,43967,07:10,Card,72581,Food,14,Hyderabad,Fraud
+T0054,21074,02:46,Card,7553,Shopping,12,Mumbai,Fraud
+T0055,25388,10:33,UPI,43725,Groceries,20,Pune,Not Fraud
+T0056,57635,03:05,UPI,40641,Electronics,9,Bangalore,Not Fraud
+T0057,53924,13:54,NetBanking,58208,Travel,9,Jaipur,Fraud
+T0058,46102,10:05,UPI,12540,Shopping,9,Delhi,Not Fraud
+T0059,17824,00:40,NetBanking,110071,Transport,3,Pune,Not Fraud
+T0060,4566,08:55,NetBanking,64477,Shopping,4,Chennai,Fraud
+T0061,40943,04:02,UPI,98000,Food,17,Chennai,Not Fraud
+T0062,3501,05:12,UPI,87401,Electronics,10,Jaipur,Fraud
+T0063,32973,21:11,Card,50482,Groceries,9,Mumbai,Not Fraud
+T0064,1408,23:32,UPI,29832,Shopping,18,Delhi,Fraud
+T0065,43343,20:27,Card,76553,Travel,16,Chennai,Fraud
+T0066,45271,06:14,NetBanking,31034,Jewelry,11,Bangalore,Fraud
+T0067,26722,11:03,NetBanking,6868,Electronics,5,Kolkata,Fraud
+T0068,10898,01:05,Card,119103,Travel,13,Pune,Fraud
+T0069,45595,09:02,Card,29294,Groceries,15,Chennai,Not Fraud
+T0070,24064,10:35,Card,37040,Food,11,Hyderabad,Fraud
+T0071,12190,00:21,NetBanking,15995,Jewelry,13,Pune,Fraud
+T0072,16464,16:49,UPI,16908,Food,1,Kolkata,Not Fraud
+T0073,38656,01:25,UPI,44275,Groceries,1,Indore,Fraud
+T0074,34880,04:42,NetBanking,56054,Shopping,20,Bangalore,Fraud
+T0075,18823,23:39,NetBanking,10739,Travel,5,Kolkata,Not Fraud
+T0076,48293,22:51,NetBanking,23259,Travel,17,Mumbai,Fraud
+T0077,54359,21:37,UPI,16153,Jewelry,8,Hyderabad,Fraud
+T0078,7075,12:53,UPI,78207,Jewelry,15,Surat,Fraud
+T0079,44808,07:31,UPI,5434,Jewelry,9,Surat,Not Fraud
+T0080,59041,17:05,Card,13657,Electronics,17,Delhi,Fraud
+T0081,55652,08:15,Card,35243,Shopping,7,Kolkata,Not Fraud
+T0082,5229,15:58,NetBanking,105528,Jewelry,10,Pune,Fraud
+T0083,5277,19:09,NetBanking,38284,Electronics,11,Indore,Not Fraud
+T0084,37408,04:00,NetBanking,12950,Groceries,16,Pune,Fraud
+T0085,44483,15:18,Card,42426,Transport,17,Delhi,Fraud
+T0086,58767,17:12,UPI,16253,Electronics,10,Jaipur,Fraud
+T0087,5211,16:28,UPI,55704,Groceries,9,Indore,Not Fraud
+T0088,6118,04:47,UPI,39315,Travel,17,Surat,Fraud
+T0089,18521,03:45,Card,35327,Shopping,12,Mumbai,Fraud
+T0090,10624,00:31,UPI,58139,Shopping,15,Hyderabad,Fraud
+T0091,24848,10:07,Card,5228,Transport,11,Kolkata,Not Fraud
+T0092,8067,06:45,Card,101981,Groceries,1,Kolkata,Not Fraud
+T0093,25769,18:04,UPI,61105,Electronics,12,Delhi,Not Fraud
+T0094,3582,21:18,Card,37679,Travel,5,Hyderabad,Not Fraud
+T0095,12641,11:50,NetBanking,8802,Shopping,14,Surat,Not Fraud
+T0096,36194,06:46,Card,11484,Shopping,3,Indore,Not Fraud
+T0097,49526,04:41,NetBanking,68645,Food,10,Bangalore,Not Fraud
+T0098,31145,13:21,NetBanking,44029,Jewelry,10,Chennai,Fraud
+T0099,26821,20:15,Card,68331,Groceries,10,Bangalore,Not Fraud
+T0100,42353,05:04,Card,70615,Travel,7,Pune,Fraud
+T0101,29886,10:48,UPI,61023,Food,15,Delhi,Not Fraud
+T0102,11648,10:35,Card,46849,Transport,3,Indore,Not Fraud
+T0103,13447,00:47,NetBanking,55179,Food,14,Kolkata,Fraud
+T0104,17910,10:48,Card,70292,Food,2,Surat,Not Fraud
+T0105,34883,20:50,UPI,17137,Shopping,7,Kolkata,Not Fraud
+T0106,42522,14:27,UPI,116238,Food,10,Mumbai,Fraud
+T0107,28065,22:48,UPI,81962,Shopping,16,Surat,Fraud
+T0108,56263,14:28,UPI,107643,Food,8,Surat,Fraud
+T0109,44900,03:52,UPI,16141,Groceries,15,Bangalore,Fraud
+T0110,15442,18:58,UPI,89607,Jewelry,2,Chennai,Not Fraud
+T0111,34819,20:27,NetBanking,18034,Travel,4,Pune,Fraud
+T0112,25633,08:14,Card,5150,Shopping,20,Chennai,Fraud
+T0113,20932,20:53,NetBanking,67299,Food,8,Mumbai,Not Fraud
+T0114,27188,22:41,Card,12249,Jewelry,10,Kolkata,Fraud
+T0115,5514,08:14,UPI,53525,Jewelry,14,Hyderabad,Not Fraud
+T0116,47276,13:23,Card,30962,Jewelry,13,Surat,Not Fraud
+T0117,4619,06:31,UPI,45857,Food,7,Jaipur,Not Fraud
+T0118,14712,08:48,Card,19287,Travel,10,Bangalore,Not Fraud
+T0119,58951,07:31,NetBanking,92201,Food,14,Kolkata,Not Fraud
+T0120,3762,06:01,NetBanking,23600,Groceries,20,Bangalore,Not Fraud
+T0121,25976,14:57,UPI,101039,Food,11,Hyderabad,Fraud
+T0122,12696,05:41,Card,102820,Jewelry,17,Kolkata,Fraud
+T0123,55193,11:21,UPI,27185,Electronics,15,Delhi,Not Fraud
+T0124,23233,13:56,UPI,78548,Shopping,4,Hyderabad,Not Fraud
+T0125,50579,09:52,Card,16502,Food,14,Hyderabad,Not Fraud
+T0126,35689,14:12,Card,52742,Groceries,11,Kolkata,Fraud
+T0127,16453,20:49,Card,10328,Groceries,13,Mumbai,Not Fraud
+T0128,17043,06:47,Card,84379,Electronics,3,Indore,Not Fraud
+T0129,3056,08:47,NetBanking,41127,Transport,11,Indore,Not Fraud
+T0130,52999,20:04,Card,113267,Jewelry,1,Jaipur,Not Fraud
+T0131,51079,12:50,UPI,61352,Shopping,9,Bangalore,Not Fraud
+T0132,770,23:19,Card,84594,Shopping,5,Hyderabad,Not Fraud
+T0133,51569,19:05,UPI,30862,Food,17,Kolkata,Fraud
+T0134,4442,20:02,UPI,77429,Shopping,16,Delhi,Not Fraud
+T0135,4929,08:39,Card,32307,Jewelry,3,Jaipur,Fraud
+T0136,11550,07:08,NetBanking,65414,Food,14,Surat,Not Fraud
+T0137,55708,21:48,Card,107203,Electronics,4,Indore,Not Fraud
+T0138,17741,11:16,UPI,31108,Food,9,Pune,Not Fraud
+T0139,10248,09:56,Card,29674,Electronics,19,Pune,Not Fraud
+T0140,33448,16:14,UPI,90632,Groceries,4,Mumbai,Not Fraud
+T0141,31314,07:53,Card,54004,Food,15,Delhi,Not Fraud
+T0142,3502,06:38,Card,30449,Travel,19,Bangalore,Not Fraud
+T0143,29633,19:16,NetBanking,18864,Travel,1,Hyderabad,Not Fraud
+T0144,14463,01:23,Card,23529,Groceries,11,Indore,Not Fraud
+T0145,48187,20:58,Card,111790,Shopping,7,Hyderabad,Fraud
+T0146,12333,19:19,Card,31661,Travel,3,Jaipur,Fraud
+T0147,4346,13:06,NetBanking,92035,Travel,13,Delhi,Not Fraud
+T0148,42998,05:25,NetBanking,58711,Electronics,9,Kolkata,Fraud
+T0149,3565,09:47,UPI,51816,Transport,19,Hyderabad,Not Fraud
+T0150,42436,06:25,Card,31695,Food,13,Kolkata,Fraud
+T0151,7640,02:25,UPI,52805,Food,19,Mumbai,Fraud
+T0152,3587,17:09,Card,16669,Jewelry,13,Surat,Not Fraud
+T0153,11451,04:22,UPI,26209,Groceries,10,Kolkata,Fraud
+T0154,32346,06:19,Card,114745,Electronics,5,Mumbai,Not Fraud
+T0155,40022,20:24,UPI,98363,Jewelry,3,Pune,Not Fraud
+T0156,40901,12:39,NetBanking,113683,Food,7,Mumbai,Not Fraud
+T0157,26397,16:10,UPI,52082,Jewelry,13,Pune,Fraud
+T0158,2893,17:53,UPI,92542,Shopping,2,Indore,Not Fraud
+T0159,30066,17:54,NetBanking,90069,Food,10,Kolkata,Fraud
+T0160,25707,21:23,UPI,71005,Groceries,15,Indore,Not Fraud
+T0161,32279,14:15,Card,105082,Transport,15,Bangalore,Fraud
+T0162,53318,15:25,Card,13797,Electronics,4,Delhi,Fraud
+T0163,52778,14:32,NetBanking,91126,Food,17,Delhi,Not Fraud
+T0164,48269,10:49,NetBanking,15481,Shopping,17,Bangalore,Not Fraud
+T0165,1894,02:39,Card,30389,Electronics,4,Bangalore,Fraud
+T0166,45166,23:59,NetBanking,13587,Transport,8,Chennai,Fraud
+T0167,10604,10:57,Card,41043,Food,20,Chennai,Not Fraud
+T0168,33113,15:13,UPI,39454,Electronics,19,Hyderabad,Fraud
+T0169,2613,06:11,Card,26132,Jewelry,13,Hyderabad,Not Fraud
+T0170,58881,12:10,UPI,20083,Jewelry,9,Hyderabad,Not Fraud
+T0171,57409,14:35,UPI,81027,Electronics,17,Surat,Fraud
+T0172,41473,12:47,Card,39701,Travel,12,Bangalore,Fraud
+T0173,23809,10:48,NetBanking,62970,Jewelry,3,Mumbai,Not Fraud
+T0174,19623,16:16,NetBanking,88786,Jewelry,10,Hyderabad,Not Fraud
+T0175,48240,00:47,NetBanking,34050,Jewelry,2,Kolkata,Not Fraud
+T0176,27573,16:23,NetBanking,22304,Jewelry,2,Mumbai,Not Fraud
+T0177,1660,01:00,NetBanking,51525,Electronics,19,Surat,Fraud
+T0178,14897,13:37,Card,82213,Travel,10,Jaipur,Fraud
+T0179,10595,04:00,UPI,97729,Groceries,8,Bangalore,Fraud
+T0180,57300,21:50,UPI,57684,Groceries,9,Surat,Not Fraud
+T0181,58702,11:38,NetBanking,63163,Jewelry,19,Jaipur,Fraud
+T0182,16485,05:57,UPI,10767,Shopping,1,Bangalore,Fraud
+T0183,15775,05:03,NetBanking,6618,Food,4,Bangalore,Not Fraud
+T0184,27278,06:33,NetBanking,89239,Shopping,20,Indore,Not Fraud
+T0185,11645,16:19,NetBanking,44356,Transport,3,Jaipur,Not Fraud
+T0186,47084,17:00,Card,115681,Groceries,13,Jaipur,Fraud
+T0187,11694,07:06,UPI,35447,Electronics,9,Chennai,Not Fraud
+T0188,46840,01:17,NetBanking,94028,Electronics,18,Chennai,Fraud
+T0189,42274,06:05,UPI,6995,Transport,17,Pune,Not Fraud
+T0190,10632,23:58,Card,30157,Travel,11,Pune,Fraud
+T0191,25067,20:58,NetBanking,66537,Jewelry,18,Mumbai,Not Fraud
+T0192,56398,00:27,UPI,79755,Shopping,8,Indore,Fraud
+T0193,38560,02:36,UPI,23952,Groceries,6,Indore,Not Fraud
+T0194,10804,11:09,NetBanking,9046,Jewelry,1,Mumbai,Fraud
+T0195,45879,02:47,Card,13619,Food,2,Surat,Fraud
+T0196,58610,21:04,UPI,19039,Groceries,13,Mumbai,Not Fraud
+T0197,2456,20:05,UPI,67536,Transport,10,Pune,Fraud
+T0198,19497,10:21,Card,39230,Electronics,14,Mumbai,Fraud
+T0199,47108,11:58,NetBanking,105825,Shopping,11,Chennai,Fraud
+T0200,40719,23:01,UPI,9095,Electronics,14,Jaipur,Fraud
+T0201,46380,01:34,UPI,33386,Travel,19,Chennai,Fraud
+T0202,11365,13:00,UPI,31481,Groceries,17,Hyderabad,Not Fraud
+T0203,32366,03:31,NetBanking,69825,Electronics,6,Indore,Fraud
+T0204,10613,09:52,UPI,96682,Groceries,7,Delhi,Not Fraud
+T0205,32331,22:35,UPI,87304,Shopping,4,Kolkata,Not Fraud
+T0206,58647,23:05,UPI,89654,Electronics,14,Chennai,Not Fraud
+T0207,28253,17:32,NetBanking,54716,Food,6,Jaipur,Not Fraud
+T0208,8515,17:38,NetBanking,89711,Electronics,20,Surat,Fraud
+T0209,10379,14:42,Card,102253,Shopping,18,Chennai,Not Fraud
+T0210,38156,07:08,NetBanking,65557,Food,11,Surat,Fraud
+T0211,12754,08:19,UPI,25262,Jewelry,20,Hyderabad,Not Fraud
+T0212,39711,16:22,UPI,35960,Electronics,6,Delhi,Not Fraud
+T0213,10987,21:06,UPI,55362,Transport,7,Chennai,Fraud
+T0214,48257,09:27,UPI,30715,Electronics,9,Pune,Fraud
+T0215,58215,12:29,Card,6653,Jewelry,2,Pune,Not Fraud
+T0216,32999,20:18,NetBanking,7898,Jewelry,15,Kolkata,Not Fraud
+T0217,561,23:15,NetBanking,96902,Jewelry,14,Kolkata,Fraud
+T0218,55643,07:42,UPI,116731,Jewelry,19,Delhi,Not Fraud
+T0219,29946,13:20,Card,87349,Food,9,Kolkata,Not Fraud
+T0220,46937,22:40,Card,37775,Shopping,6,Mumbai,Not Fraud
+T0221,40935,13:33,UPI,90785,Shopping,6,Jaipur,Not Fraud
+T0222,59719,03:02,NetBanking,76219,Transport,9,Pune,Not Fraud
+T0223,34227,11:06,NetBanking,64871,Shopping,19,Surat,Fraud
+T0224,1255,20:50,NetBanking,73378,Shopping,12,Pune,Not Fraud
+T0225,45050,05:25,NetBanking,104968,Travel,17,Hyderabad,Fraud
+T0226,41983,01:16,UPI,55048,Groceries,9,Kolkata,Fraud
+T0227,27760,20:44,UPI,81044,Electronics,12,Kolkata,Not Fraud
+T0228,34742,07:51,UPI,65570,Transport,13,Delhi,Not Fraud
+T0229,53256,20:12,UPI,89174,Transport,16,Bangalore,Fraud
+T0230,23342,21:40,NetBanking,66354,Jewelry,14,Bangalore,Not Fraud
+T0231,51308,15:22,NetBanking,40051,Electronics,8,Kolkata,Not Fraud
+T0232,44687,05:30,Card,110570,Electronics,1,Pune,Fraud
+T0233,43086,09:20,NetBanking,68559,Groceries,16,Hyderabad,Fraud
+T0234,10210,09:54,NetBanking,12479,Electronics,13,Bangalore,Fraud
+T0235,34976,11:40,UPI,6964,Groceries,19,Chennai,Fraud
+T0236,16585,19:06,UPI,23708,Transport,19,Jaipur,Not Fraud
+T0237,22904,04:13,NetBanking,108766,Jewelry,13,Indore,Fraud
+T0238,51402,02:42,Card,108294,Food,18,Jaipur,Fraud
+T0239,45602,06:33,NetBanking,102243,Groceries,3,Surat,Not Fraud
+T0240,7960,08:26,Card,113403,Travel,8,Mumbai,Fraud
+T0241,31943,14:57,Card,96805,Food,5,Surat,Not Fraud
+T0242,39495,23:00,NetBanking,115201,Travel,6,Jaipur,Fraud
+T0243,43801,09:53,NetBanking,54146,Groceries,15,Bangalore,Fraud
+T0244,41949,11:40,NetBanking,7694,Jewelry,1,Hyderabad,Not Fraud
+T0245,53192,03:32,UPI,68527,Groceries,16,Pune,Fraud
+T0246,47266,13:40,NetBanking,49381,Electronics,5,Hyderabad,Fraud
+T0247,31299,16:35,Card,42244,Electronics,7,Surat,Not Fraud
+T0248,3655,09:18,Card,113492,Travel,12,Chennai,Not Fraud
+T0249,57410,16:22,UPI,90794,Electronics,7,Pune,Not Fraud
+T0250,20981,22:19,UPI,81867,Transport,5,Mumbai,Not Fraud
+T0251,26340,23:35,Card,76486,Electronics,13,Delhi,Fraud
+T0252,607,01:12,UPI,84781,Transport,16,Surat,Fraud
+T0253,59826,17:39,NetBanking,85831,Jewelry,13,Indore,Not Fraud
+T0254,57630,21:05,Card,10173,Jewelry,7,Bangalore,Not Fraud
+T0255,6842,21:11,NetBanking,60256,Groceries,2,Hyderabad,Not Fraud
+T0256,57342,04:50,Card,78675,Food,10,Kolkata,Fraud
+T0257,2444,10:01,UPI,79230,Shopping,14,Indore,Not Fraud
+T0258,34419,01:52,NetBanking,106420,Jewelry,4,Kolkata,Fraud
+T0259,29459,02:00,NetBanking,82838,Food,13,Jaipur,Fraud
+T0260,50655,13:35,UPI,15869,Food,4,Mumbai,Not Fraud
+T0261,28183,00:00,UPI,117520,Food,4,Jaipur,Not Fraud
+T0262,1365,08:46,NetBanking,36754,Food,19,Mumbai,Not Fraud
+T0263,24177,23:45,Card,100646,Jewelry,5,Surat,Not Fraud
+T0264,46680,15:29,UPI,11902,Groceries,9,Mumbai,Not Fraud
+T0265,58090,20:43,Card,15443,Jewelry,20,Indore,Fraud
+T0266,11078,15:38,NetBanking,46455,Jewelry,2,Jaipur,Not Fraud
+T0267,30988,21:10,NetBanking,109511,Food,5,Kolkata,Fraud
+T0268,31458,12:49,NetBanking,40649,Electronics,15,Chennai,Fraud
+T0269,18543,01:39,NetBanking,48521,Groceries,20,Bangalore,Fraud
+T0270,39596,09:37,NetBanking,37258,Shopping,14,Indore,Fraud
+T0271,50757,07:51,Card,42133,Electronics,15,Chennai,Fraud
+T0272,27888,05:37,NetBanking,42817,Food,2,Chennai,Not Fraud
+T0273,55983,17:43,NetBanking,50462,Travel,16,Jaipur,Fraud
+T0274,52457,12:12,NetBanking,45562,Shopping,8,Jaipur,Not Fraud
+T0275,46621,06:59,Card,81859,Shopping,9,Surat,Not Fraud
+T0276,5947,17:51,Card,106209,Travel,12,Surat,Fraud
+T0277,58981,08:56,NetBanking,47073,Food,17,Pune,Fraud
+T0278,14139,06:05,Card,110626,Travel,6,Indore,Not Fraud
+T0279,23720,12:49,UPI,117322,Shopping,17,Hyderabad,Fraud
+T0280,56978,03:23,Card,108199,Travel,15,Mumbai,Not Fraud
+T0281,22804,08:33,UPI,7696,Transport,20,Indore,Fraud
+T0282,32071,18:36,Card,39288,Shopping,7,Delhi,Not Fraud
+T0283,29485,18:52,UPI,22157,Electronics,20,Pune,Fraud
+T0284,12044,12:05,Card,11684,Transport,1,Jaipur,Fraud
+T0285,32105,02:55,UPI,88865,Jewelry,20,Delhi,Fraud
+T0286,17055,10:36,NetBanking,88969,Travel,8,Kolkata,Fraud
+T0287,12171,14:54,NetBanking,53616,Food,6,Bangalore,Not Fraud
+T0288,2731,08:22,UPI,77461,Electronics,2,Surat,Not Fraud
+T0289,46704,23:41,Card,12309,Transport,16,Mumbai,Not Fraud
+T0290,13238,21:47,NetBanking,82304,Groceries,10,Jaipur,Not Fraud
+T0291,21428,11:16,Card,21271,Food,13,Jaipur,Not Fraud
+T0292,15827,04:58,UPI,66328,Transport,1,Mumbai,Not Fraud
+T0293,10486,07:04,NetBanking,118606,Food,20,Jaipur,Not Fraud
+T0294,6556,12:53,Card,87361,Electronics,1,Pune,Fraud
+T0295,31495,03:40,NetBanking,23712,Groceries,12,Bangalore,Fraud
+T0296,46974,14:35,Card,62536,Shopping,5,Kolkata,Not Fraud
+T0297,16371,04:01,Card,79840,Transport,9,Bangalore,Not Fraud
+T0298,17283,15:06,UPI,64793,Food,11,Surat,Not Fraud
+T0299,3925,20:57,Card,78392,Groceries,7,Chennai,Not Fraud
+T0300,49669,06:23,UPI,39278,Groceries,14,Kolkata,Fraud
+T0301,19167,13:57,Card,12534,Food,6,Mumbai,Not Fraud
+T0302,29174,16:21,NetBanking,23368,Electronics,17,Bangalore,Fraud
+T0303,23799,13:02,UPI,33608,Food,14,Bangalore,Not Fraud
+T0304,34387,07:45,UPI,30783,Travel,6,Jaipur,Not Fraud
+T0305,50091,08:11,NetBanking,22962,Jewelry,7,Pune,Not Fraud
+T0306,38403,09:12,NetBanking,13610,Shopping,1,Mumbai,Not Fraud
+T0307,34177,11:21,Card,115350,Groceries,10,Mumbai,Fraud
+T0308,27038,15:08,Card,37550,Groceries,9,Bangalore,Not Fraud
+T0309,46223,11:36,NetBanking,117469,Shopping,20,Surat,Not Fraud
+T0310,4875,03:22,Card,112024,Transport,8,Kolkata,Not Fraud
+T0311,37969,01:18,NetBanking,100806,Groceries,4,Surat,Fraud
+T0312,52923,17:08,UPI,36920,Travel,1,Bangalore,Not Fraud
+T0313,11202,03:19,UPI,77792,Groceries,9,Delhi,Not Fraud
+T0314,46007,23:12,NetBanking,7318,Travel,9,Jaipur,Fraud
+T0315,34469,07:44,UPI,18482,Jewelry,15,Bangalore,Fraud
+T0316,3160,08:07,Card,69696,Groceries,15,Delhi,Not Fraud
+T0317,8165,12:56,UPI,75988,Food,5,Indore,Not Fraud
+T0318,30481,23:25,NetBanking,113267,Shopping,6,Kolkata,Not Fraud
+T0319,39327,19:33,UPI,56856,Transport,2,Hyderabad,Not Fraud
+T0320,22387,12:15,NetBanking,98785,Transport,11,Hyderabad,Not Fraud
+T0321,53614,12:54,UPI,12019,Jewelry,18,Hyderabad,Fraud
+T0322,16537,13:42,UPI,52766,Groceries,1,Hyderabad,Fraud
+T0323,28579,06:32,Card,34553,Transport,1,Jaipur,Fraud
+T0324,41698,01:51,NetBanking,9505,Electronics,2,Indore,Fraud
+T0325,18119,20:34,UPI,86429,Travel,2,Mumbai,Fraud
+T0326,28622,07:02,NetBanking,19816,Food,10,Delhi,Fraud
+T0327,4154,19:58,NetBanking,40181,Travel,17,Bangalore,Fraud
+T0328,29034,03:32,NetBanking,43482,Electronics,5,Chennai,Fraud
+T0329,16151,23:05,NetBanking,42639,Jewelry,18,Indore,Fraud
+T0330,14723,20:24,Card,76902,Travel,7,Chennai,Not Fraud
+T0331,40360,15:30,UPI,9058,Food,10,Surat,Not Fraud
+T0332,35977,12:37,UPI,6556,Transport,13,Pune,Fraud
+T0333,21430,17:20,UPI,40379,Electronics,16,Mumbai,Not Fraud
+T0334,50802,00:10,Card,13755,Shopping,18,Mumbai,Fraud
+T0335,34081,12:53,UPI,51414,Travel,15,Pune,Fraud
+T0336,44611,23:59,Card,59624,Food,5,Pune,Fraud
+T0337,40589,19:54,UPI,112635,Jewelry,9,Jaipur,Not Fraud
+T0338,17808,20:45,UPI,59137,Shopping,5,Surat,Not Fraud
+T0339,38593,03:31,Card,79967,Transport,13,Indore,Not Fraud
+T0340,40002,03:24,NetBanking,95786,Electronics,15,Chennai,Fraud
+T0341,23331,12:33,Card,83042,Groceries,18,Jaipur,Not Fraud
+T0342,25147,14:19,UPI,75369,Shopping,6,Indore,Not Fraud
+T0343,24907,18:14,Card,112693,Transport,3,Indore,Not Fraud
+T0344,55129,07:20,UPI,60895,Groceries,7,Mumbai,Not Fraud
+T0345,17013,18:57,Card,44297,Travel,16,Indore,Not Fraud
+T0346,28849,16:52,Card,100304,Shopping,17,Hyderabad,Fraud
+T0347,2868,19:43,NetBanking,64384,Groceries,12,Surat,Not Fraud
+T0348,15225,03:26,NetBanking,70655,Travel,12,Bangalore,Fraud
+T0349,57860,06:26,NetBanking,57643,Travel,16,Hyderabad,Fraud
+T0350,45523,16:47,Card,27376,Groceries,3,Chennai,Not Fraud
+T0351,33793,05:07,NetBanking,95424,Shopping,10,Bangalore,Fraud
+T0352,34544,09:52,UPI,32236,Shopping,17,Bangalore,Fraud
+T0353,4143,20:36,NetBanking,18974,Jewelry,20,Mumbai,Not Fraud
+T0354,45533,13:00,NetBanking,45205,Groceries,1,Chennai,Not Fraud
+T0355,26254,03:37,UPI,92570,Shopping,1,Surat,Fraud
+T0356,37360,08:55,NetBanking,72415,Food,18,Kolkata,Fraud
+T0357,39635,03:09,UPI,72950,Groceries,6,Delhi,Fraud
+T0358,5189,05:33,Card,112890,Transport,16,Mumbai,Fraud
+T0359,42804,00:43,UPI,47312,Electronics,19,Chennai,Not Fraud
+T0360,11302,01:17,NetBanking,117633,Groceries,4,Hyderabad,Not Fraud
+T0361,12760,14:39,Card,7562,Travel,13,Mumbai,Fraud
+T0362,29012,01:39,UPI,37680,Travel,8,Bangalore,Not Fraud
+T0363,20830,00:57,Card,44803,Shopping,15,Delhi,Fraud
+T0364,16120,21:24,Card,34019,Jewelry,19,Jaipur,Not Fraud
+T0365,1669,07:05,UPI,27272,Groceries,6,Chennai,Not Fraud
+T0366,26154,17:23,Card,48911,Electronics,4,Kolkata,Not Fraud
+T0367,42882,02:07,NetBanking,113242,Food,14,Kolkata,Fraud
+T0368,12730,14:18,Card,36086,Jewelry,12,Mumbai,Not Fraud
+T0369,22575,04:15,NetBanking,17141,Transport,5,Bangalore,Not Fraud
+T0370,36570,14:29,UPI,25869,Jewelry,8,Kolkata,Not Fraud
+T0371,24900,20:37,NetBanking,43961,Food,7,Pune,Not Fraud
+T0372,56455,14:43,NetBanking,97598,Shopping,5,Indore,Not Fraud
+T0373,24316,17:15,UPI,84718,Transport,13,Delhi,Not Fraud
+T0374,44623,16:05,Card,116654,Groceries,18,Indore,Fraud
+T0375,9707,09:00,UPI,98153,Transport,13,Pune,Fraud
+T0376,21239,06:42,Card,13923,Transport,4,Surat,Not Fraud
+T0377,49906,09:12,UPI,99203,Electronics,3,Bangalore,Not Fraud
+T0378,53731,22:25,Card,51648,Transport,10,Bangalore,Fraud
+T0379,18322,05:01,NetBanking,94079,Electronics,12,Kolkata,Fraud
+T0380,1855,21:45,Card,37561,Electronics,15,Delhi,Not Fraud
+T0381,12105,09:07,NetBanking,84811,Jewelry,9,Mumbai,Not Fraud
+T0382,26719,01:38,Card,61453,Food,6,Kolkata,Not Fraud
+T0383,48586,01:35,UPI,87504,Travel,10,Pune,Fraud
+T0384,37566,15:45,NetBanking,38385,Jewelry,17,Indore,Fraud
+T0385,23074,00:07,NetBanking,10630,Travel,10,Mumbai,Fraud
+T0386,16220,21:07,Card,108735,Jewelry,2,Delhi,Not Fraud
+T0387,27543,22:47,UPI,102984,Electronics,13,Surat,Not Fraud
+T0388,6093,11:27,NetBanking,49603,Jewelry,15,Jaipur,Not Fraud
+T0389,33535,01:43,UPI,61144,Shopping,7,Pune,Fraud
+T0390,3063,22:52,UPI,39235,Transport,18,Pune,Fraud
+T0391,35847,08:15,Card,27026,Groceries,2,Pune,Not Fraud
+T0392,41914,09:08,NetBanking,94945,Shopping,5,Pune,Not Fraud
+T0393,46443,07:00,NetBanking,95639,Electronics,17,Chennai,Fraud
+T0394,8942,22:09,NetBanking,78828,Transport,19,Delhi,Not Fraud
+T0395,36130,13:48,NetBanking,93739,Shopping,6,Kolkata,Not Fraud
+T0396,54671,06:07,UPI,6621,Groceries,10,Mumbai,Fraud
+T0397,58907,08:19,Card,19495,Groceries,7,Bangalore,Not Fraud
+T0398,21464,14:29,NetBanking,52575,Groceries,19,Mumbai,Not Fraud
+T0399,908,14:48,Card,16006,Jewelry,16,Indore,Not Fraud
+T0400,17529,03:41,NetBanking,61916,Electronics,16,Mumbai,Fraud
+T0401,23746,02:41,NetBanking,87279,Jewelry,10,Chennai,Fraud
+T0402,42999,07:05,Card,102969,Transport,5,Bangalore,Fraud
+T0403,19619,11:11,NetBanking,115850,Food,17,Delhi,Not Fraud
+T0404,51620,23:53,Card,102297,Food,10,Hyderabad,Fraud
+T0405,21181,07:23,Card,77238,Food,5,Mumbai,Not Fraud
+T0406,2903,03:36,Card,11625,Shopping,13,Jaipur,Fraud
+T0407,48091,05:19,UPI,81168,Jewelry,20,Pune,Fraud
+T0408,10924,04:28,Card,16752,Shopping,13,Pune,Fraud
+T0409,14504,23:23,NetBanking,9197,Shopping,1,Bangalore,Not Fraud
+T0410,18763,02:42,Card,72452,Groceries,2,Jaipur,Not Fraud
+T0411,776,21:52,Card,99994,Groceries,6,Jaipur,Fraud
+T0412,52901,18:43,UPI,79385,Travel,12,Hyderabad,Not Fraud
+T0413,34067,14:27,Card,87014,Travel,18,Indore,Fraud
+T0414,5537,01:46,NetBanking,84842,Travel,11,Kolkata,Fraud
+T0415,24359,15:42,NetBanking,44231,Jewelry,5,Mumbai,Not Fraud
+T0416,55781,06:14,NetBanking,95617,Travel,15,Hyderabad,Not Fraud
+T0417,36564,18:26,Card,74465,Shopping,12,Chennai,Not Fraud
+T0418,7687,07:11,UPI,76842,Transport,7,Chennai,Not Fraud
+T0419,42777,03:12,Card,92849,Food,17,Surat,Fraud
+T0420,30225,07:34,NetBanking,96320,Travel,19,Indore,Not Fraud
+T0421,5457,13:43,NetBanking,109901,Travel,3,Surat,Not Fraud
+T0422,47032,03:40,NetBanking,18381,Shopping,17,Surat,Fraud
+T0423,11423,06:36,Card,106578,Transport,16,Indore,Fraud
+T0424,3971,12:15,NetBanking,53804,Travel,2,Pune,Fraud
+T0425,30327,09:07,UPI,60833,Travel,5,Pune,Not Fraud
+T0426,37094,03:58,Card,27020,Transport,12,Mumbai,Fraud
+T0427,54308,08:07,NetBanking,53891,Electronics,8,Jaipur,Not Fraud
+T0428,3051,19:22,NetBanking,51627,Groceries,4,Mumbai,Not Fraud
+T0429,59852,21:15,Card,51445,Groceries,9,Indore,Not Fraud
+T0430,29027,03:50,Card,68969,Food,1,Bangalore,Not Fraud
+T0431,36523,09:55,Card,114603,Travel,13,Chennai,Not Fraud
+T0432,29303,00:01,Card,24783,Transport,11,Mumbai,Fraud
+T0433,52658,01:04,NetBanking,86319,Travel,6,Kolkata,Fraud
+T0434,55444,15:10,NetBanking,56565,Travel,15,Delhi,Not Fraud
+T0435,23854,10:33,NetBanking,45797,Travel,7,Mumbai,Not Fraud
+T0436,14053,05:52,NetBanking,100321,Shopping,12,Kolkata,Fraud
+T0437,23378,10:00,UPI,80911,Groceries,11,Pune,Not Fraud
+T0438,30307,19:02,Card,100284,Shopping,5,Chennai,Not Fraud
+T0439,4360,16:16,NetBanking,79574,Food,12,Mumbai,Not Fraud
+T0440,36941,03:55,NetBanking,106488,Jewelry,7,Delhi,Fraud
+T0441,23983,09:50,UPI,119401,Jewelry,8,Delhi,Not Fraud
+T0442,20122,10:47,UPI,71703,Electronics,12,Surat,Not Fraud
+T0443,47103,12:21,Card,97304,Transport,2,Jaipur,Not Fraud
+T0444,33212,11:57,Card,111065,Food,8,Bangalore,Not Fraud
+T0445,13658,00:56,NetBanking,58081,Transport,15,Chennai,Fraud
+T0446,11270,18:04,Card,44516,Jewelry,5,Indore,Not Fraud
+T0447,36328,21:59,NetBanking,14633,Groceries,11,Indore,Fraud
+T0448,11914,09:37,NetBanking,66324,Shopping,12,Delhi,Not Fraud
+T0449,55157,15:20,NetBanking,41159,Groceries,6,Bangalore,Not Fraud
+T0450,41254,08:15,Card,33614,Food,1,Indore,Fraud
+T0451,18722,16:41,UPI,30783,Food,4,Indore,Not Fraud
+T0452,3385,02:04,UPI,49716,Food,19,Chennai,Fraud
+T0453,35388,20:56,UPI,88871,Food,1,Hyderabad,Not Fraud
+T0454,21613,23:01,Card,58125,Food,16,Mumbai,Fraud
+T0455,56777,13:50,Card,16429,Transport,2,Jaipur,Not Fraud
+T0456,39380,12:16,Card,119467,Travel,15,Hyderabad,Not Fraud
+T0457,3871,13:39,UPI,25536,Food,11,Bangalore,Fraud
+T0458,34900,02:22,NetBanking,60473,Travel,12,Surat,Fraud
+T0459,10253,21:38,NetBanking,48363,Electronics,19,Jaipur,Not Fraud
+T0460,50224,01:49,NetBanking,90411,Shopping,10,Surat,Fraud
+T0461,18436,11:33,UPI,40904,Travel,17,Jaipur,Fraud
+T0462,6739,20:51,UPI,24738,Shopping,12,Delhi,Not Fraud
+T0463,2031,19:08,UPI,12886,Travel,4,Bangalore,Not Fraud
+T0464,17181,19:23,UPI,28256,Travel,5,Mumbai,Not Fraud
+T0465,23191,22:15,NetBanking,117700,Electronics,15,Kolkata,Not Fraud
+T0466,30353,06:20,UPI,19130,Groceries,1,Kolkata,Not Fraud
+T0467,44385,11:03,Card,78950,Jewelry,8,Pune,Not Fraud
+T0468,2212,08:01,UPI,97964,Electronics,9,Pune,Not Fraud
+T0469,21567,13:41,Card,44119,Food,9,Indore,Not Fraud
+T0470,52027,05:30,Card,103505,Electronics,9,Delhi,Not Fraud
+T0471,21927,00:31,NetBanking,26180,Travel,8,Jaipur,Not Fraud
+T0472,14098,18:03,Card,116587,Groceries,7,Jaipur,Not Fraud
+T0473,12147,13:55,UPI,44007,Food,5,Mumbai,Not Fraud
+T0474,8941,09:09,UPI,101471,Shopping,17,Kolkata,Not Fraud
+T0475,6113,13:21,UPI,48996,Travel,13,Pune,Not Fraud
+T0476,13397,20:44,NetBanking,9964,Food,1,Indore,Fraud
+T0477,28413,22:06,Card,11333,Groceries,1,Delhi,Not Fraud
+T0478,8094,15:08,UPI,61161,Jewelry,17,Surat,Fraud
+T0479,9895,20:47,NetBanking,70631,Electronics,18,Jaipur,Not Fraud
+T0480,5267,11:13,NetBanking,100865,Food,8,Mumbai,Fraud
+T0481,17543,08:04,Card,30748,Transport,2,Surat,Not Fraud
+T0482,23964,08:00,Card,95196,Travel,11,Chennai,Fraud
+T0483,36166,10:44,Card,119566,Shopping,14,Kolkata,Fraud
+T0484,21057,17:26,Card,24822,Shopping,13,Bangalore,Not Fraud
+T0485,59057,20:00,Card,84669,Jewelry,8,Indore,Not Fraud
+T0486,48041,12:15,NetBanking,91956,Transport,7,Mumbai,Fraud
+T0487,59740,22:03,NetBanking,95988,Jewelry,13,Jaipur,Fraud
+T0488,36175,21:20,NetBanking,80721,Jewelry,15,Jaipur,Not Fraud
+T0489,33631,10:37,NetBanking,54793,Transport,18,Kolkata,Not Fraud
+T0490,23478,22:04,NetBanking,73977,Jewelry,13,Hyderabad,Not Fraud
+T0491,4918,20:51,NetBanking,92063,Transport,18,Chennai,Not Fraud
+T0492,17388,15:54,NetBanking,73425,Food,12,Bangalore,Not Fraud
+T0493,4515,16:23,Card,31848,Food,17,Bangalore,Not Fraud
+T0494,10191,21:29,NetBanking,88955,Transport,6,Mumbai,Not Fraud
+T0495,21300,12:23,NetBanking,21126,Electronics,14,Kolkata,Not Fraud
+T0496,6937,11:22,NetBanking,73334,Groceries,17,Chennai,Not Fraud
+T0497,26122,09:28,NetBanking,63892,Transport,4,Bangalore,Not Fraud
+T0498,49928,16:09,Card,94152,Travel,1,Pune,Fraud
+T0499,41012,11:33,UPI,110061,Travel,11,Pune,Fraud
+T0500,252,18:16,NetBanking,82409,Travel,2,Chennai,Fraud
+T0501,21434,08:15,NetBanking,114332,Jewelry,9,Jaipur,Not Fraud
+T0502,56488,02:12,Card,60462,Travel,5,Hyderabad,Fraud
+T0503,3077,22:28,Card,53126,Shopping,13,Kolkata,Fraud
+T0504,42679,19:51,NetBanking,51183,Food,9,Indore,Not Fraud
+T0505,12757,22:37,Card,13304,Transport,12,Delhi,Not Fraud
+T0506,5438,14:24,NetBanking,73919,Transport,13,Mumbai,Not Fraud
+T0507,7265,18:36,Card,65578,Shopping,15,Jaipur,Not Fraud
+T0508,11749,02:28,UPI,69391,Jewelry,13,Pune,Not Fraud
+T0509,48726,06:25,Card,10319,Travel,18,Hyderabad,Fraud
+T0510,50612,12:49,UPI,20482,Travel,15,Mumbai,Not Fraud
+T0511,6865,15:05,NetBanking,78978,Food,7,Hyderabad,Not Fraud
+T0512,31840,01:35,Card,115574,Transport,14,Mumbai,Fraud
+T0513,57342,20:09,UPI,48822,Food,11,Surat,Not Fraud
+T0514,18200,16:16,NetBanking,46030,Transport,3,Chennai,Not Fraud
+T0515,36617,12:32,Card,94268,Food,14,Kolkata,Not Fraud
+T0516,52758,13:54,UPI,38696,Groceries,18,Pune,Fraud
+T0517,35382,20:23,NetBanking,91025,Food,15,Hyderabad,Fraud
+T0518,52723,10:12,UPI,97657,Jewelry,15,Hyderabad,Fraud
+T0519,757,17:04,UPI,79046,Electronics,14,Pune,Not Fraud
+T0520,52372,14:18,NetBanking,98134,Travel,7,Jaipur,Not Fraud
+T0521,26807,23:28,Card,31635,Transport,7,Delhi,Fraud
+T0522,3408,04:55,UPI,111731,Groceries,3,Surat,Not Fraud
+T0523,48513,05:31,NetBanking,93323,Electronics,8,Pune,Fraud
+T0524,35225,05:09,UPI,72663,Food,7,Delhi,Not Fraud
+T0525,3497,13:14,NetBanking,97564,Shopping,9,Bangalore,Not Fraud
+T0526,57096,01:59,Card,10473,Electronics,5,Pune,Not Fraud
+T0527,57525,18:51,UPI,97660,Electronics,11,Chennai,Fraud
+T0528,21459,17:53,NetBanking,24909,Food,7,Kolkata,Not Fraud
+T0529,2358,10:24,NetBanking,88988,Travel,5,Delhi,Not Fraud
+T0530,13186,14:09,Card,61342,Groceries,6,Mumbai,Not Fraud
+T0531,54496,11:07,NetBanking,90999,Groceries,7,Chennai,Not Fraud
+T0532,32307,11:01,Card,17188,Transport,16,Chennai,Not Fraud
+T0533,39375,18:34,Card,31388,Transport,3,Pune,Fraud
+T0534,38131,09:02,UPI,83485,Electronics,19,Pune,Not Fraud
+T0535,10175,21:19,Card,27541,Shopping,2,Pune,Not Fraud
+T0536,21797,23:23,Card,19371,Transport,6,Delhi,Not Fraud
+T0537,47627,17:29,UPI,102905,Travel,4,Kolkata,Not Fraud
+T0538,30438,01:02,Card,72287,Jewelry,2,Bangalore,Fraud
+T0539,27418,18:53,NetBanking,14992,Jewelry,12,Bangalore,Not Fraud
+T0540,23756,05:42,NetBanking,48467,Transport,3,Jaipur,Fraud
+T0541,20082,04:16,UPI,18963,Food,4,Jaipur,Not Fraud
+T0542,17925,17:34,UPI,47502,Travel,4,Surat,Not Fraud
+T0543,2956,16:16,NetBanking,30914,Food,12,Bangalore,Not Fraud
+T0544,59733,07:46,UPI,70771,Groceries,18,Delhi,Not Fraud
+T0545,3716,15:50,UPI,32647,Groceries,19,Bangalore,Not Fraud
+T0546,10270,08:01,UPI,56546,Electronics,14,Indore,Not Fraud
+T0547,58560,03:05,NetBanking,33524,Transport,19,Surat,Not Fraud
+T0548,46782,01:52,UPI,14575,Groceries,8,Pune,Fraud
+T0549,40717,22:11,Card,49836,Travel,10,Bangalore,Not Fraud
+T0550,905,10:59,UPI,108101,Transport,14,Pune,Not Fraud
+T0551,9903,23:32,UPI,24822,Food,6,Pune,Not Fraud
+T0552,14594,21:21,Card,5373,Groceries,3,Jaipur,Not Fraud
+T0553,34642,10:58,UPI,103495,Food,3,Mumbai,Not Fraud
+T0554,55625,11:50,Card,17109,Travel,14,Bangalore,Fraud
+T0555,52847,15:43,NetBanking,22687,Electronics,16,Mumbai,Fraud
+T0556,49021,14:53,NetBanking,26590,Transport,19,Surat,Fraud
+T0557,19793,23:37,UPI,90878,Groceries,18,Chennai,Fraud
+T0558,49398,07:15,UPI,82021,Shopping,7,Indore,Not Fraud
+T0559,59714,21:56,Card,56381,Transport,2,Hyderabad,Not Fraud
+T0560,54317,12:25,Card,34929,Jewelry,3,Indore,Not Fraud
+T0561,59453,13:50,NetBanking,5589,Groceries,10,Delhi,Fraud
+T0562,57753,15:26,UPI,84266,Electronics,14,Surat,Fraud
+T0563,14202,02:22,UPI,115695,Electronics,13,Hyderabad,Fraud
+T0564,5965,08:11,UPI,58404,Groceries,15,Pune,Not Fraud
+T0565,44957,20:02,Card,112863,Electronics,13,Hyderabad,Fraud
+T0566,10089,11:10,NetBanking,51078,Shopping,8,Chennai,Not Fraud
+T0567,32946,10:56,UPI,108644,Transport,17,Bangalore,Fraud
+T0568,25820,16:00,UPI,116868,Shopping,1,Indore,Fraud
+T0569,53244,21:16,NetBanking,93636,Jewelry,12,Surat,Not Fraud
+T0570,43854,12:08,NetBanking,92334,Travel,9,Hyderabad,Not Fraud
+T0571,29304,08:18,NetBanking,45020,Jewelry,12,Kolkata,Fraud
+T0572,34421,21:03,UPI,69663,Groceries,16,Delhi,Fraud
+T0573,36730,12:28,UPI,103444,Jewelry,10,Indore,Fraud
+T0574,49340,14:02,Card,68238,Food,11,Pune,Not Fraud
+T0575,38705,18:32,NetBanking,56408,Jewelry,2,Chennai,Fraud
+T0576,41310,07:18,Card,8382,Jewelry,18,Delhi,Fraud
+T0577,52950,21:40,NetBanking,69617,Electronics,13,Chennai,Fraud
+T0578,21446,05:53,NetBanking,69980,Electronics,19,Bangalore,Fraud
+T0579,13358,16:51,NetBanking,26253,Food,2,Chennai,Not Fraud
+T0580,59679,01:37,Card,55196,Jewelry,10,Bangalore,Fraud
+T0581,18048,09:57,Card,30867,Shopping,16,Delhi,Not Fraud
+T0582,44866,08:23,Card,46894,Electronics,13,Delhi,Fraud
+T0583,13567,19:28,UPI,114721,Transport,17,Hyderabad,Not Fraud
+T0584,3080,04:17,NetBanking,66632,Shopping,18,Delhi,Fraud
+T0585,18247,12:23,NetBanking,74382,Groceries,13,Chennai,Not Fraud
+T0586,29668,00:02,Card,113350,Electronics,18,Indore,Fraud
+T0587,23780,08:15,NetBanking,119766,Jewelry,3,Kolkata,Not Fraud
+T0588,54883,22:07,NetBanking,26747,Jewelry,10,Delhi,Fraud
+T0589,50964,12:25,Card,57425,Electronics,11,Bangalore,Fraud
+T0590,46872,04:34,Card,59216,Food,17,Pune,Fraud
+T0591,22398,21:04,NetBanking,13754,Jewelry,14,Pune,Not Fraud
+T0592,38068,13:25,NetBanking,80198,Transport,7,Bangalore,Not Fraud
+T0593,10106,07:42,Card,70610,Groceries,8,Kolkata,Fraud
+T0594,57784,09:08,NetBanking,85262,Groceries,13,Indore,Fraud
+T0595,39839,16:17,Card,32929,Groceries,20,Hyderabad,Fraud
+T0596,44502,18:56,NetBanking,52148,Groceries,3,Delhi,Fraud
+T0597,55158,10:13,UPI,64996,Shopping,1,Chennai,Not Fraud
+T0598,33188,01:28,UPI,77733,Groceries,19,Surat,Fraud
+T0599,54423,14:07,Card,34421,Electronics,16,Surat,Fraud
+T0600,37454,07:13,Card,109001,Transport,18,Indore,Fraud
+T0601,35397,22:01,NetBanking,106985,Electronics,8,Kolkata,Fraud
+T0602,24737,02:40,UPI,99965,Shopping,9,Kolkata,Fraud
+T0603,33760,18:26,UPI,92387,Transport,8,Hyderabad,Not Fraud
+T0604,35034,10:42,NetBanking,14356,Food,9,Kolkata,Not Fraud
+T0605,29951,21:56,NetBanking,64592,Food,20,Delhi,Not Fraud
+T0606,26602,05:18,NetBanking,15020,Groceries,7,Jaipur,Not Fraud
+T0607,51149,06:50,NetBanking,106360,Transport,7,Chennai,Not Fraud
+T0608,49198,00:58,Card,99307,Food,20,Kolkata,Not Fraud
+T0609,1052,20:46,NetBanking,39575,Food,18,Indore,Not Fraud
+T0610,41633,10:22,UPI,18796,Jewelry,10,Hyderabad,Not Fraud
+T0611,27791,00:51,UPI,106281,Transport,15,Bangalore,Not Fraud
+T0612,24047,15:31,Card,49254,Transport,3,Bangalore,Not Fraud
+T0613,55903,03:33,UPI,37930,Electronics,19,Chennai,Fraud
+T0614,43213,00:58,NetBanking,98089,Shopping,7,Kolkata,Fraud
+T0615,10748,13:08,NetBanking,6687,Travel,5,Surat,Fraud
+T0616,25032,00:00,UPI,65779,Travel,3,Surat,Not Fraud
+T0617,4851,10:21,Card,78345,Transport,20,Pune,Not Fraud
+T0618,680,07:13,UPI,55149,Travel,12,Bangalore,Not Fraud
+T0619,13300,14:29,NetBanking,81747,Jewelry,19,Jaipur,Not Fraud
+T0620,50118,02:36,Card,117944,Jewelry,2,Pune,Fraud
+T0621,47178,20:30,Card,84415,Travel,16,Kolkata,Not Fraud
+T0622,4311,22:15,NetBanking,5642,Transport,8,Pune,Not Fraud
+T0623,41743,23:47,UPI,36800,Transport,2,Mumbai,Not Fraud
+T0624,2694,14:03,UPI,36516,Transport,13,Mumbai,Not Fraud
+T0625,36650,20:36,Card,39466,Groceries,14,Jaipur,Not Fraud
+T0626,49818,03:48,NetBanking,29502,Food,4,Indore,Not Fraud
+T0627,33762,10:06,Card,108147,Groceries,17,Delhi,Fraud
+T0628,55998,00:35,NetBanking,70860,Travel,3,Surat,Fraud
+T0629,5287,22:03,Card,85620,Jewelry,18,Mumbai,Not Fraud
+T0630,36893,23:13,Card,29558,Food,1,Delhi,Fraud
+T0631,46608,20:47,UPI,93044,Travel,7,Delhi,Not Fraud
+T0632,35990,16:22,UPI,16513,Groceries,4,Hyderabad,Not Fraud
+T0633,18156,09:19,NetBanking,24375,Electronics,10,Pune,Not Fraud
+T0634,655,02:04,NetBanking,19898,Food,2,Surat,Not Fraud
+T0635,25455,14:26,NetBanking,80302,Transport,20,Delhi,Not Fraud
+T0636,1613,01:45,Card,92834,Transport,1,Mumbai,Not Fraud
+T0637,11984,19:18,Card,38483,Transport,15,Chennai,Not Fraud
+T0638,55662,11:01,Card,55107,Food,11,Jaipur,Not Fraud
+T0639,50160,19:53,UPI,40939,Shopping,11,Surat,Fraud
+T0640,1571,10:14,Card,51765,Groceries,18,Pune,Not Fraud
+T0641,58515,10:50,UPI,74732,Transport,3,Hyderabad,Fraud
+T0642,28052,20:21,Card,13422,Food,12,Pune,Fraud
+T0643,34994,01:41,Card,37106,Travel,18,Delhi,Fraud
+T0644,42653,06:13,UPI,103968,Jewelry,10,Chennai,Fraud
+T0645,28471,22:07,NetBanking,85032,Food,6,Chennai,Not Fraud
+T0646,49557,12:15,UPI,38702,Jewelry,11,Pune,Fraud
+T0647,42217,08:39,NetBanking,23615,Groceries,19,Kolkata,Fraud
+T0648,20116,02:04,Card,75212,Groceries,3,Bangalore,Fraud
+T0649,36723,03:46,NetBanking,89987,Electronics,16,Jaipur,Fraud
+T0650,11858,03:16,NetBanking,56744,Food,10,Jaipur,Fraud
+T0651,47930,03:55,UPI,49871,Groceries,15,Kolkata,Fraud
+T0652,54513,07:06,Card,110233,Electronics,7,Indore,Not Fraud
+T0653,842,06:04,NetBanking,25714,Travel,3,Chennai,Not Fraud
+T0654,43533,08:11,UPI,23829,Shopping,2,Chennai,Not Fraud
+T0655,42944,02:36,Card,34262,Groceries,19,Chennai,Not Fraud
+T0656,56072,04:59,UPI,52662,Food,12,Hyderabad,Fraud
+T0657,51841,23:16,NetBanking,53002,Groceries,12,Pune,Not Fraud
+T0658,59787,05:18,NetBanking,105242,Food,13,Pune,Not Fraud
+T0659,50180,12:54,Card,36571,Electronics,12,Mumbai,Fraud
+T0660,3514,03:42,Card,114631,Groceries,13,Jaipur,Fraud
+T0661,28927,15:07,Card,65286,Groceries,4,Kolkata,Not Fraud
+T0662,7918,15:30,UPI,35244,Groceries,6,Pune,Not Fraud
+T0663,4650,08:23,Card,66494,Travel,15,Mumbai,Not Fraud
+T0664,4886,16:14,NetBanking,102546,Transport,16,Kolkata,Not Fraud
+T0665,7412,01:27,UPI,12336,Travel,17,Hyderabad,Not Fraud
+T0666,14118,03:05,Card,39773,Transport,16,Bangalore,Fraud
+T0667,5078,14:40,NetBanking,17836,Transport,11,Hyderabad,Not Fraud
+T0668,4666,03:45,NetBanking,68121,Groceries,16,Surat,Fraud
+T0669,59357,00:41,NetBanking,95035,Jewelry,16,Pune,Fraud
+T0670,50830,15:42,UPI,23258,Shopping,20,Hyderabad,Fraud
+T0671,48721,01:54,UPI,91043,Jewelry,12,Pune,Fraud
+T0672,1225,19:29,UPI,63901,Electronics,3,Jaipur,Not Fraud
+T0673,9406,06:19,UPI,81454,Shopping,11,Mumbai,Not Fraud
+T0674,44706,05:00,Card,68466,Electronics,12,Surat,Not Fraud
+T0675,56119,23:31,UPI,86424,Transport,7,Jaipur,Fraud
+T0676,13432,09:50,Card,40517,Groceries,15,Kolkata,Not Fraud
+T0677,11833,10:26,UPI,79525,Food,1,Mumbai,Not Fraud
+T0678,10345,19:51,NetBanking,84514,Travel,9,Kolkata,Not Fraud
+T0679,9223,08:15,Card,20798,Food,18,Bangalore,Not Fraud
+T0680,34423,04:37,UPI,103734,Shopping,11,Bangalore,Not Fraud
+T0681,5457,18:52,NetBanking,108548,Jewelry,15,Pune,Not Fraud
+T0682,56575,04:47,UPI,98331,Shopping,9,Delhi,Fraud
+T0683,1347,09:04,UPI,103758,Shopping,10,Delhi,Not Fraud
+T0684,34893,12:54,NetBanking,110781,Travel,10,Indore,Fraud
+T0685,7841,14:15,NetBanking,91261,Transport,16,Hyderabad,Not Fraud
+T0686,59101,16:35,Card,62146,Travel,7,Kolkata,Fraud
+T0687,12096,22:16,NetBanking,59007,Electronics,8,Delhi,Not Fraud
+T0688,46143,23:03,NetBanking,94441,Electronics,20,Mumbai,Fraud
+T0689,29356,15:21,UPI,66014,Shopping,6,Delhi,Not Fraud
+T0690,13775,17:26,UPI,22554,Electronics,13,Hyderabad,Not Fraud
+T0691,25109,21:31,NetBanking,21720,Food,12,Chennai,Not Fraud
+T0692,7611,01:32,NetBanking,58233,Groceries,5,Jaipur,Not Fraud
+T0693,38365,14:21,NetBanking,76162,Transport,19,Kolkata,Fraud
+T0694,20810,05:51,NetBanking,95848,Transport,16,Bangalore,Not Fraud
+T0695,26023,11:07,UPI,114515,Jewelry,10,Pune,Not Fraud
+T0696,46395,18:49,Card,53393,Jewelry,7,Chennai,Not Fraud
+T0697,10909,02:38,NetBanking,116365,Groceries,15,Pune,Fraud
+T0698,58991,00:38,Card,59035,Groceries,18,Delhi,Fraud
+T0699,52523,00:53,UPI,16243,Food,6,Pune,Fraud
+T0700,11638,08:57,UPI,7531,Groceries,8,Pune,Fraud
+T0701,9939,15:21,Card,73462,Shopping,3,Jaipur,Not Fraud
+T0702,57528,08:21,Card,16000,Groceries,2,Delhi,Not Fraud
+T0703,41097,01:44,NetBanking,22270,Electronics,9,Hyderabad,Fraud
+T0704,33083,15:09,NetBanking,84321,Transport,7,Mumbai,Not Fraud
+T0705,49435,04:53,UPI,55493,Food,14,Chennai,Fraud
+T0706,52442,02:51,UPI,17348,Food,16,Jaipur,Not Fraud
+T0707,52891,14:50,NetBanking,86585,Shopping,8,Indore,Fraud
+T0708,28739,04:00,NetBanking,81348,Shopping,7,Pune,Not Fraud
+T0709,49407,08:32,NetBanking,73399,Groceries,14,Mumbai,Fraud
+T0710,15193,23:01,NetBanking,72212,Jewelry,8,Jaipur,Not Fraud
+T0711,40486,06:57,NetBanking,31822,Electronics,6,Bangalore,Not Fraud
+T0712,10511,01:14,NetBanking,106098,Jewelry,15,Chennai,Fraud
+T0713,26186,10:33,Card,12295,Groceries,10,Chennai,Not Fraud
+T0714,3416,10:32,NetBanking,24824,Food,8,Jaipur,Fraud
+T0715,2180,06:20,NetBanking,107893,Transport,4,Hyderabad,Not Fraud
+T0716,45142,22:30,UPI,45733,Jewelry,17,Delhi,Fraud
+T0717,41077,12:27,NetBanking,13743,Travel,16,Pune,Fraud
+T0718,29666,10:54,NetBanking,98367,Electronics,16,Surat,Fraud
+T0719,29484,23:59,Card,86100,Groceries,11,Chennai,Not Fraud
+T0720,8919,01:54,NetBanking,21902,Travel,18,Mumbai,Not Fraud
+T0721,19859,21:04,UPI,62324,Shopping,11,Delhi,Not Fraud
+T0722,47115,23:03,NetBanking,42752,Food,2,Surat,Fraud
+T0723,7182,22:04,NetBanking,26493,Transport,11,Kolkata,Not Fraud
+T0724,11282,07:11,NetBanking,105265,Electronics,13,Hyderabad,Not Fraud
+T0725,8278,07:29,NetBanking,20332,Jewelry,18,Kolkata,Fraud
+T0726,31183,07:11,Card,111282,Shopping,20,Pune,Fraud
+T0727,48302,04:47,NetBanking,69362,Electronics,7,Pune,Not Fraud
+T0728,2012,08:32,UPI,111711,Transport,16,Indore,Not Fraud
+T0729,21252,10:11,Card,94472,Groceries,11,Mumbai,Not Fraud
+T0730,56761,07:36,Card,6365,Travel,12,Mumbai,Fraud
+T0731,59143,01:20,Card,116213,Electronics,8,Chennai,Fraud
+T0732,24753,19:22,UPI,54577,Groceries,13,Kolkata,Not Fraud
+T0733,49764,20:49,NetBanking,104036,Transport,19,Mumbai,Fraud
+T0734,58494,23:10,NetBanking,111563,Jewelry,5,Hyderabad,Fraud
+T0735,25147,13:53,NetBanking,22510,Electronics,10,Mumbai,Not Fraud
+T0736,22828,05:54,NetBanking,106500,Transport,11,Surat,Not Fraud
+T0737,42959,01:50,Card,64729,Transport,18,Jaipur,Fraud
+T0738,51464,23:55,UPI,100609,Groceries,7,Delhi,Fraud
+T0739,7956,10:56,Card,109405,Groceries,1,Indore,Fraud
+T0740,4634,15:47,NetBanking,31009,Shopping,2,Chennai,Not Fraud
+T0741,52786,15:24,NetBanking,88706,Shopping,10,Hyderabad,Fraud
+T0742,59160,11:46,NetBanking,101871,Groceries,10,Indore,Fraud
+T0743,38701,16:04,NetBanking,63475,Food,16,Pune,Fraud
+T0744,13859,11:34,UPI,91349,Jewelry,12,Indore,Not Fraud
+T0745,2486,14:37,UPI,61670,Shopping,19,Delhi,Fraud
+T0746,12246,16:18,UPI,108398,Food,17,Indore,Not Fraud
+T0747,52741,01:14,Card,101673,Jewelry,12,Delhi,Fraud
+T0748,27516,06:20,UPI,48127,Shopping,10,Surat,Not Fraud
+T0749,49494,16:00,NetBanking,84280,Transport,5,Bangalore,Not Fraud
+T0750,12215,00:58,NetBanking,104552,Electronics,18,Mumbai,Not Fraud
+T0751,3832,06:32,NetBanking,70850,Jewelry,1,Pune,Not Fraud
+T0752,33675,14:59,UPI,78395,Jewelry,5,Jaipur,Not Fraud
+T0753,52851,00:27,NetBanking,83920,Electronics,5,Pune,Fraud
+T0754,27742,06:32,UPI,12098,Transport,15,Hyderabad,Fraud
+T0755,59394,22:10,NetBanking,75590,Transport,8,Bangalore,Not Fraud
+T0756,15414,19:11,UPI,81744,Jewelry,7,Jaipur,Not Fraud
+T0757,46867,19:45,Card,40722,Travel,7,Mumbai,Not Fraud
+T0758,32207,00:28,NetBanking,118843,Jewelry,3,Kolkata,Not Fraud
+T0759,9513,10:29,NetBanking,88716,Electronics,6,Kolkata,Not Fraud
+T0760,50438,23:15,Card,34842,Electronics,7,Indore,Not Fraud
+T0761,28772,09:19,UPI,88230,Food,6,Pune,Not Fraud
+T0762,38848,10:07,Card,43814,Transport,17,Jaipur,Not Fraud
+T0763,50577,18:31,UPI,41318,Shopping,16,Indore,Fraud
+T0764,33557,04:32,NetBanking,35528,Shopping,6,Delhi,Not Fraud
+T0765,26636,03:22,NetBanking,48984,Transport,14,Kolkata,Fraud
+T0766,42503,04:29,NetBanking,76815,Shopping,19,Hyderabad,Not Fraud
+T0767,33551,20:45,UPI,61697,Travel,13,Mumbai,Fraud
+T0768,45190,04:40,Card,93847,Travel,12,Indore,Fraud
+T0769,44584,07:21,NetBanking,77009,Food,6,Chennai,Not Fraud
+T0770,7764,04:57,Card,85790,Shopping,1,Jaipur,Not Fraud
+T0771,18201,11:33,Card,50854,Jewelry,1,Jaipur,Not Fraud
+T0772,7818,10:16,Card,84916,Groceries,13,Hyderabad,Not Fraud
+T0773,52629,12:04,NetBanking,111221,Groceries,12,Chennai,Fraud
+T0774,58610,10:18,Card,26000,Groceries,16,Delhi,Fraud
+T0775,12858,06:03,UPI,24253,Groceries,5,Kolkata,Not Fraud
+T0776,17490,03:46,UPI,23863,Transport,4,Bangalore,Not Fraud
+T0777,28644,06:02,Card,117539,Groceries,16,Bangalore,Fraud
+T0778,39324,04:19,UPI,16023,Groceries,2,Mumbai,Not Fraud
+T0779,21683,22:44,UPI,19724,Food,6,Pune,Not Fraud
+T0780,40128,11:43,Card,52269,Electronics,7,Kolkata,Fraud
+T0781,27005,08:28,NetBanking,68317,Jewelry,8,Bangalore,Not Fraud
+T0782,11050,05:57,NetBanking,109031,Jewelry,5,Mumbai,Not Fraud
+T0783,29398,16:39,NetBanking,107653,Groceries,2,Jaipur,Not Fraud
+T0784,28969,00:38,UPI,91532,Transport,11,Mumbai,Fraud
+T0785,51742,17:33,Card,70111,Food,5,Mumbai,Fraud
+T0786,32988,22:32,Card,115685,Jewelry,1,Pune,Not Fraud
+T0787,37547,12:46,NetBanking,48746,Travel,14,Bangalore,Fraud
+T0788,20932,12:12,NetBanking,32650,Transport,9,Mumbai,Not Fraud
+T0789,38203,22:20,Card,89212,Transport,11,Indore,Fraud
+T0790,22273,05:36,UPI,69060,Shopping,18,Mumbai,Fraud
+T0791,9970,13:48,Card,80147,Travel,3,Surat,Not Fraud
+T0792,28202,22:59,UPI,16438,Groceries,1,Kolkata,Not Fraud
+T0793,18329,03:38,Card,62907,Groceries,14,Jaipur,Fraud
+T0794,42715,11:06,Card,69730,Food,2,Delhi,Not Fraud
+T0795,43081,08:17,NetBanking,31960,Travel,12,Kolkata,Fraud
+T0796,50589,18:44,Card,64797,Shopping,9,Jaipur,Not Fraud
+T0797,7972,01:47,UPI,111339,Travel,5,Surat,Not Fraud
+T0798,48496,23:08,UPI,88474,Electronics,12,Surat,Fraud
+T0799,2379,14:30,UPI,16388,Food,1,Jaipur,Fraud
+T0800,39569,15:56,NetBanking,100569,Food,3,Bangalore,Not Fraud
+T0801,42484,03:41,Card,114882,Food,6,Bangalore,Fraud
+T0802,59601,07:30,UPI,37792,Food,8,Bangalore,Not Fraud
+T0803,59604,19:19,NetBanking,87682,Transport,3,Jaipur,Not Fraud
+T0804,14109,03:26,UPI,110591,Jewelry,16,Kolkata,Fraud
+T0805,15406,20:29,UPI,112861,Electronics,16,Bangalore,Not Fraud
+T0806,34321,21:07,UPI,46714,Food,18,Jaipur,Fraud
+T0807,30973,15:59,NetBanking,78822,Shopping,9,Indore,Not Fraud
+T0808,21728,05:21,UPI,53192,Food,4,Jaipur,Not Fraud
+T0809,38360,09:21,Card,80727,Transport,13,Mumbai,Fraud
+T0810,21029,06:29,Card,42255,Travel,4,Hyderabad,Not Fraud
+T0811,31703,20:12,UPI,118058,Electronics,18,Pune,Fraud
+T0812,39837,06:19,NetBanking,98029,Groceries,10,Kolkata,Not Fraud
+T0813,844,06:35,NetBanking,31970,Groceries,3,Pune,Not Fraud
+T0814,44047,03:43,NetBanking,18200,Travel,10,Mumbai,Fraud
+T0815,17669,01:27,NetBanking,41764,Jewelry,3,Mumbai,Not Fraud
+T0816,33962,13:22,UPI,74830,Travel,19,Pune,Fraud
+T0817,11946,07:06,NetBanking,20941,Travel,7,Hyderabad,Not Fraud
+T0818,44425,12:25,NetBanking,13818,Shopping,1,Delhi,Not Fraud
+T0819,54568,23:57,Card,72423,Transport,9,Mumbai,Not Fraud
+T0820,1985,01:27,UPI,74644,Electronics,20,Hyderabad,Fraud
+T0821,36327,04:22,UPI,38432,Food,12,Bangalore,Fraud
+T0822,9988,03:37,NetBanking,25976,Travel,4,Delhi,Not Fraud
+T0823,36930,15:26,NetBanking,76249,Groceries,15,Pune,Fraud
+T0824,27899,04:15,Card,36707,Food,1,Delhi,Not Fraud
+T0825,54911,15:37,UPI,61276,Food,13,Mumbai,Fraud
+T0826,29863,16:15,UPI,84172,Groceries,2,Chennai,Not Fraud
+T0827,5584,10:48,Card,49409,Transport,3,Chennai,Not Fraud
+T0828,5062,16:49,UPI,37031,Electronics,15,Kolkata,Not Fraud
+T0829,21452,03:45,NetBanking,61209,Groceries,17,Jaipur,Fraud
+T0830,8223,23:41,UPI,112314,Electronics,6,Surat,Not Fraud
+T0831,2796,10:03,NetBanking,73277,Food,4,Surat,Not Fraud
+T0832,26704,05:14,Card,61793,Groceries,7,Pune,Not Fraud
+T0833,59352,14:00,UPI,91751,Shopping,8,Delhi,Not Fraud
+T0834,35338,21:18,NetBanking,48905,Jewelry,12,Hyderabad,Not Fraud
+T0835,14787,01:25,UPI,95233,Food,14,Delhi,Fraud
+T0836,4817,01:34,UPI,39489,Shopping,7,Surat,Not Fraud
+T0837,44793,15:16,Card,18001,Travel,7,Jaipur,Not Fraud
+T0838,19332,02:59,UPI,111762,Food,19,Delhi,Fraud
+T0839,31898,13:08,NetBanking,96418,Groceries,1,Delhi,Not Fraud
+T0840,7598,10:15,NetBanking,33966,Electronics,2,Hyderabad,Not Fraud
+T0841,11376,22:53,Card,58300,Food,12,Jaipur,Not Fraud
+T0842,28900,05:00,Card,16988,Transport,5,Pune,Fraud
+T0843,41928,04:42,Card,98958,Groceries,9,Pune,Not Fraud
+T0844,437,04:02,NetBanking,16037,Electronics,12,Surat,Fraud
+T0845,56895,18:28,NetBanking,74885,Food,19,Jaipur,Not Fraud
+T0846,47873,10:08,NetBanking,51495,Food,12,Indore,Fraud
+T0847,18380,21:32,Card,71045,Jewelry,5,Indore,Fraud
+T0848,12352,01:34,NetBanking,41148,Jewelry,10,Jaipur,Not Fraud
+T0849,51385,11:33,NetBanking,37632,Travel,16,Kolkata,Fraud
+T0850,35854,09:18,Card,113792,Shopping,13,Hyderabad,Fraud
+T0851,48114,21:13,Card,118002,Shopping,15,Hyderabad,Fraud
+T0852,5849,11:46,Card,113269,Jewelry,7,Chennai,Not Fraud
+T0853,41830,11:44,Card,40755,Electronics,1,Kolkata,Not Fraud
+T0854,2320,13:38,Card,92845,Transport,17,Pune,Not Fraud
+T0855,22508,10:30,NetBanking,99325,Food,4,Jaipur,Not Fraud
+T0856,6890,11:12,UPI,68858,Electronics,9,Kolkata,Fraud
+T0857,57062,14:18,NetBanking,25366,Food,14,Bangalore,Fraud
+T0858,23283,08:03,UPI,48450,Groceries,8,Kolkata,Fraud
+T0859,27989,06:09,Card,71746,Shopping,12,Surat,Fraud
+T0860,26249,19:16,Card,56374,Transport,1,Mumbai,Not Fraud
+T0861,48418,11:07,UPI,48640,Travel,11,Pune,Not Fraud
+T0862,13756,00:37,UPI,85083,Food,19,Pune,Not Fraud
+T0863,15492,15:37,NetBanking,47205,Electronics,19,Surat,Fraud
+T0864,42431,19:05,UPI,65321,Shopping,17,Chennai,Not Fraud
+T0865,27492,11:00,Card,20204,Food,8,Kolkata,Not Fraud
+T0866,16162,10:37,NetBanking,54441,Transport,8,Surat,Not Fraud
+T0867,53314,09:17,Card,106734,Groceries,16,Mumbai,Fraud
+T0868,43675,12:29,NetBanking,83515,Transport,8,Jaipur,Not Fraud
+T0869,36136,12:10,NetBanking,39077,Shopping,4,Delhi,Not Fraud
+T0870,20559,14:55,UPI,95853,Groceries,7,Bangalore,Fraud
+T0871,24378,00:27,NetBanking,71556,Electronics,14,Surat,Fraud
+T0872,24345,22:10,UPI,71925,Electronics,4,Chennai,Not Fraud
+T0873,56639,17:13,Card,55795,Travel,8,Indore,Not Fraud
+T0874,36851,18:17,NetBanking,104806,Electronics,10,Delhi,Not Fraud
+T0875,24188,21:34,UPI,23029,Electronics,11,Bangalore,Not Fraud
+T0876,27555,00:57,UPI,34131,Jewelry,12,Pune,Fraud
+T0877,43767,17:28,UPI,58201,Transport,12,Jaipur,Fraud
+T0878,10986,11:52,Card,8769,Jewelry,2,Kolkata,Not Fraud
+T0879,44482,01:31,NetBanking,66910,Food,18,Delhi,Fraud
+T0880,42486,05:44,NetBanking,38910,Food,6,Indore,Fraud
+T0881,50689,05:42,NetBanking,118987,Travel,17,Bangalore,Fraud
+T0882,47158,15:46,Card,19584,Electronics,20,Pune,Not Fraud
+T0883,35994,19:50,Card,114245,Jewelry,19,Hyderabad,Not Fraud
+T0884,37338,04:48,UPI,69695,Transport,12,Mumbai,Fraud
+T0885,42983,03:05,NetBanking,86877,Travel,20,Bangalore,Not Fraud
+T0886,17735,02:11,UPI,8062,Shopping,17,Delhi,Not Fraud
+T0887,54607,22:29,UPI,36281,Electronics,18,Hyderabad,Fraud
+T0888,39736,00:08,UPI,53853,Groceries,11,Indore,Not Fraud
+T0889,47354,03:03,Card,96912,Electronics,6,Delhi,Fraud
+T0890,57220,06:28,NetBanking,109307,Groceries,20,Mumbai,Fraud
+T0891,48183,09:14,NetBanking,16991,Travel,10,Jaipur,Fraud
+T0892,40330,19:55,Card,55050,Shopping,5,Jaipur,Not Fraud
+T0893,54563,06:14,NetBanking,40487,Food,9,Bangalore,Not Fraud
+T0894,45749,09:25,Card,34370,Transport,2,Hyderabad,Fraud
+T0895,30444,16:22,NetBanking,68532,Transport,17,Hyderabad,Not Fraud
+T0896,26493,06:10,NetBanking,70043,Shopping,12,Bangalore,Not Fraud
+T0897,34583,04:27,UPI,66844,Transport,6,Pune,Fraud
+T0898,43039,23:15,UPI,79853,Electronics,12,Chennai,Fraud
+T0899,23045,20:07,NetBanking,41949,Transport,16,Pune,Not Fraud
+T0900,20890,13:51,Card,119337,Transport,1,Bangalore,Not Fraud
+T0901,36385,17:38,NetBanking,87055,Transport,19,Bangalore,Fraud
+T0902,19340,21:55,Card,108070,Transport,4,Jaipur,Not Fraud
+T0903,28818,21:45,UPI,29785,Shopping,14,Bangalore,Fraud
+T0904,33594,04:20,Card,89461,Electronics,8,Bangalore,Fraud
+T0905,6737,05:46,Card,115203,Travel,19,Surat,Not Fraud
+T0906,12856,14:41,UPI,68719,Transport,17,Pune,Not Fraud
+T0907,29318,01:56,UPI,18358,Transport,19,Chennai,Fraud
+T0908,41515,23:38,Card,80082,Electronics,8,Delhi,Not Fraud
+T0909,31653,02:41,Card,95606,Travel,6,Delhi,Fraud
+T0910,4126,18:55,UPI,30877,Electronics,2,Chennai,Not Fraud
+T0911,54825,02:16,Card,28906,Shopping,16,Pune,Fraud
+T0912,24549,07:50,UPI,19952,Groceries,14,Hyderabad,Not Fraud
+T0913,49331,03:28,UPI,107279,Food,16,Hyderabad,Not Fraud
+T0914,2603,10:48,NetBanking,58968,Shopping,13,Pune,Not Fraud
+T0915,20678,13:04,Card,110909,Jewelry,20,Kolkata,Not Fraud
+T0916,38530,16:53,Card,40980,Transport,16,Kolkata,Not Fraud
+T0917,14034,21:03,NetBanking,33273,Food,18,Surat,Not Fraud
+T0918,33532,03:05,UPI,61479,Electronics,12,Jaipur,Fraud
+T0919,41621,05:53,Card,66602,Shopping,7,Pune,Fraud
+T0920,9553,20:25,Card,91219,Shopping,1,Hyderabad,Not Fraud
+T0921,34269,19:14,NetBanking,13898,Groceries,11,Chennai,Not Fraud
+T0922,3021,09:19,UPI,95234,Groceries,18,Delhi,Not Fraud
+T0923,19795,00:49,Card,97380,Jewelry,12,Surat,Not Fraud
+T0924,48695,13:57,Card,20439,Shopping,4,Jaipur,Not Fraud
+T0925,25306,03:27,Card,54816,Shopping,8,Kolkata,Not Fraud
+T0926,25967,16:48,NetBanking,41540,Groceries,18,Jaipur,Not Fraud
+T0927,17406,06:09,Card,56086,Electronics,15,Bangalore,Not Fraud
+T0928,39737,16:10,UPI,24487,Groceries,14,Surat,Fraud
+T0929,1291,13:05,Card,85463,Travel,2,Jaipur,Not Fraud
+T0930,46752,02:06,NetBanking,58094,Transport,4,Mumbai,Fraud
+T0931,53324,12:23,UPI,109655,Groceries,5,Bangalore,Not Fraud
+T0932,33214,07:40,UPI,111837,Travel,3,Surat,Fraud
+T0933,4818,04:18,UPI,62815,Electronics,14,Mumbai,Fraud
+T0934,37115,23:06,NetBanking,91027,Groceries,18,Delhi,Fraud
+T0935,6782,13:04,NetBanking,95906,Transport,19,Chennai,Not Fraud
+T0936,44609,15:18,Card,80291,Shopping,6,Indore,Not Fraud
+T0937,21521,09:35,UPI,88683,Groceries,9,Surat,Not Fraud
+T0938,32689,10:14,NetBanking,20064,Electronics,12,Chennai,Fraud
+T0939,24701,07:26,NetBanking,40888,Food,17,Kolkata,Not Fraud
+T0940,30682,08:52,NetBanking,110066,Jewelry,20,Bangalore,Not Fraud
+T0941,53263,17:00,UPI,38731,Electronics,3,Chennai,Not Fraud
+T0942,45409,19:59,NetBanking,57324,Jewelry,7,Delhi,Not Fraud
+T0943,19884,21:51,NetBanking,29175,Travel,4,Kolkata,Not Fraud
+T0944,3026,06:25,Card,94804,Jewelry,13,Surat,Not Fraud
+T0945,48725,20:18,NetBanking,91297,Shopping,13,Pune,Fraud
+T0946,25793,04:32,UPI,77901,Food,11,Delhi,Fraud
+T0947,47056,17:11,Card,107435,Shopping,12,Hyderabad,Fraud
+T0948,20678,19:23,UPI,115709,Food,6,Delhi,Not Fraud
+T0949,10402,18:33,UPI,67706,Travel,7,Bangalore,Not Fraud
+T0950,9605,22:35,Card,116136,Electronics,8,Delhi,Not Fraud
+T0951,17730,06:25,Card,62087,Groceries,1,Jaipur,Not Fraud
+T0952,56661,20:24,UPI,17310,Shopping,1,Chennai,Not Fraud
+T0953,15961,00:37,NetBanking,65556,Jewelry,4,Surat,Not Fraud
+T0954,6115,07:28,Card,32909,Travel,10,Mumbai,Not Fraud
+T0955,58310,03:48,NetBanking,7756,Transport,19,Jaipur,Fraud
+T0956,36230,04:52,Card,25235,Electronics,13,Hyderabad,Fraud
+T0957,26359,05:12,NetBanking,97838,Jewelry,3,Hyderabad,Not Fraud
+T0958,39468,13:59,NetBanking,111490,Electronics,7,Mumbai,Not Fraud
+T0959,33029,11:32,NetBanking,9999,Jewelry,4,Chennai,Not Fraud
+T0960,43618,08:59,Card,106958,Shopping,14,Jaipur,Fraud
+T0961,49983,18:20,UPI,95265,Food,4,Bangalore,Not Fraud
+T0962,13930,04:13,Card,92484,Jewelry,16,Jaipur,Fraud
+T0963,31791,01:40,UPI,111637,Shopping,6,Delhi,Fraud
+T0964,4608,14:01,NetBanking,68012,Groceries,1,Kolkata,Not Fraud
+T0965,15403,04:49,Card,81845,Electronics,2,Jaipur,Not Fraud
+T0966,27446,12:03,NetBanking,6223,Transport,17,Kolkata,Not Fraud
+T0967,13475,07:21,UPI,8516,Transport,1,Kolkata,Fraud
+T0968,56475,15:44,NetBanking,53971,Shopping,16,Indore,Fraud
+T0969,20883,00:24,UPI,58656,Shopping,9,Surat,Not Fraud
+T0970,34737,12:06,UPI,17839,Shopping,16,Kolkata,Fraud
+T0971,52652,16:38,Card,20177,Transport,1,Chennai,Not Fraud
+T0972,3199,19:56,NetBanking,92165,Groceries,14,Jaipur,Not Fraud
+T0973,58863,07:22,Card,66411,Jewelry,19,Indore,Fraud
+T0974,40604,01:21,NetBanking,76175,Shopping,10,Indore,Not Fraud
+T0975,52561,21:01,NetBanking,65289,Jewelry,14,Indore,Fraud
+T0976,9785,19:46,NetBanking,44839,Groceries,16,Chennai,Not Fraud
+T0977,43862,00:09,UPI,98022,Transport,11,Pune,Fraud
+T0978,2224,20:10,UPI,36207,Jewelry,9,Surat,Not Fraud
+T0979,39889,10:39,UPI,23588,Food,19,Jaipur,Fraud
+T0980,34018,12:22,NetBanking,110304,Transport,5,Chennai,Not Fraud
+T0981,24493,00:33,UPI,109344,Food,9,Mumbai,Not Fraud
+T0982,26229,17:43,UPI,47783,Shopping,3,Bangalore,Not Fraud
+T0983,20096,17:44,Card,81075,Travel,2,Bangalore,Not Fraud
+T0984,32129,03:13,UPI,111216,Groceries,5,Chennai,Fraud
+T0985,6595,05:49,Card,88064,Transport,15,Bangalore,Fraud
+T0986,12333,10:45,NetBanking,94701,Travel,13,Jaipur,Fraud
+T0987,18264,08:38,Card,29046,Food,18,Pune,Fraud
+T0988,45726,22:01,UPI,31436,Electronics,4,Hyderabad,Not Fraud
+T0989,6633,23:18,UPI,110693,Shopping,15,Delhi,Fraud
+T0990,6286,11:25,UPI,26215,Groceries,6,Kolkata,Not Fraud
+T0991,5669,04:15,Card,91978,Jewelry,15,Jaipur,Not Fraud
+T0992,7848,00:25,Card,31361,Jewelry,11,Hyderabad,Not Fraud
+T0993,51605,14:34,Card,96670,Groceries,12,Chennai,Fraud
+T0994,27632,09:18,Card,33069,Electronics,4,Pune,Not Fraud
+T0995,56824,20:50,UPI,44804,Groceries,16,Jaipur,Fraud
+T0996,4305,18:28,Card,38607,Groceries,14,Pune,Not Fraud
+T0997,33097,22:49,UPI,71997,Shopping,6,Kolkata,Not Fraud
+T0998,54976,10:24,NetBanking,78019,Groceries,4,Kolkata,Not Fraud
+T0999,43458,04:19,Card,72497,Shopping,14,Jaipur,Not Fraud
+T1000,19057,18:30,Card,86423,Jewelry,20,Surat,Fraud
